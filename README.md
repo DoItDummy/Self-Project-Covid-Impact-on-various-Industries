@@ -1,0 +1,2 @@
+# Self-Project-Covid-Impact-on-various-Industries
+This project analyzes how Covid-19 influenced the stock market in 3 key sectors, Entertainment, Tech and Pharmaceuticals from the beginning of 2020 to the end of 2022. Using python along with additional libraries, connections between Covid and each individual sector’s stock market performance (achieved by ETFs) was able to be charted and graphed. 
